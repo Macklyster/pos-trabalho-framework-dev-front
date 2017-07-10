@@ -22,3 +22,6 @@ Trabalho - Pós WevDev - Alfa 2017 - Professor Burnes
     - Criar pasta " vendor " na raiz do projeto.
     - Baixar BootStrap, jQuery, Masonry e Simple line icons.
     - Copiar todas bibliotecas para a pasta vendor.
+
+
+![alt text](http://i.imgur.com/prXnFei.jpg)
